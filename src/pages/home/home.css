@@ -1,0 +1,32 @@
+.home {
+    margin-top: 2rem;
+    line-height: 3rem;
+}
+
+.search {
+    margin-top: 5rem;
+    max-width: 100%;
+    position: relative;
+}
+
+
+.input {
+    width: 40rem;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    border: none;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    padding-left: 2rem;
+}
+
+
+.search-img {
+    position: relative;
+    justify-content: center;
+    left: 1.5rem;
+}
+
+.cardss {
+    margin-top: 5rem;
+}
+
